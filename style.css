@@ -5,23 +5,23 @@ body {
   font-family: lato, sans-serif;
 }
 
-.aaa {
+.photo-block {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.aaa img {
+.photo-block img {
   width: 100%;
 }
 
-.aaa .more-inf {
+.photo-block .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .aaa {
+  .photo-block {
       text-align: center;
   }
 }
