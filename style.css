@@ -35,9 +35,9 @@ input, button {
 }
 
 @media (max-width:768px) {
-.photo-block {
-    text-align: center;
-}
+  .photo-block {
+      text-align: center;
+  }
 
 }
 
